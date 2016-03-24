@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CarManage-war:war">
+    <output-path>$PROJECT_DIR$/SourceShare-war/target</output-path>
+    <root id="archive" name="CarManage-war-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CarManage-war:war exploded" />
+    </root>
+  </artifact>
+</component>

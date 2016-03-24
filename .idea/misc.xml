@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../FrameworkDemo/demo.war" />
+    <file type="web" url="file://$PROJECT_DIR$/SourceShare-war" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/CarManage-Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/CarManage-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/CarManage-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/CarManage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/CarManage-war/pom.xml" />
+        <option value="$PROJECT_DIR$/CarManage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceShare-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceShare-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceShare-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceShare-service/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceShare-war/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceShare-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

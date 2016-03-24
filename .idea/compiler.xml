@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="CarManage-Bean" />
+        <module name="CarManage-dao" />
+        <module name="CarManage-impl" />
+        <module name="CarManage-service" />
+        <module name="CarManage-war" />
+        <module name="CarManage-web" />
+        <module name="SourceShare-bean" />
+        <module name="SourceShare-dao" />
+        <module name="SourceShare-impl" />
+        <module name="SourceShare-service" />
+        <module name="SourceShare-war" />
+        <module name="SourceShare-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CarManage" target="1.5" />
+      <module name="CarManage (1)" target="1.5" />
+      <module name="CarManage-Bean" target="1.5" />
+      <module name="CarManage-bean" target="1.5" />
+      <module name="CarManage-dao" target="1.5" />
+      <module name="CarManage-impl" target="1.5" />
+      <module name="CarManage-service" target="1.5" />
+      <module name="CarManage-war" target="1.5" />
+      <module name="CarManage-web" target="1.5" />
+      <module name="demo.bean" target="1.5" />
+      <module name="demo.dao" target="1.5" />
+      <module name="demo.impl" target="1.5" />
+      <module name="demo.service" target="1.5" />
+      <module name="demo.war" target="1.5" />
+      <module name="demo.web" target="1.5" />
+      <module name="SourceShare" target="1.5" />
+      <module name="SourceShare-bean" target="1.5" />
+      <module name="SourceShare-dao" target="1.5" />
+      <module name="SourceShare-impl" target="1.5" />
+      <module name="SourceShare-service" target="1.5" />
+      <module name="SourceShare-war" target="1.5" />
+      <module name="SourceShare-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

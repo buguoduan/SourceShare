@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SourceShare.iml" filepath="$PROJECT_DIR$/SourceShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceShare-bean/SourceShare-bean.iml" filepath="$PROJECT_DIR$/SourceShare-bean/SourceShare-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceShare-dao/SourceShare-dao.iml" filepath="$PROJECT_DIR$/SourceShare-dao/SourceShare-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceShare-impl/SourceShare-impl.iml" filepath="$PROJECT_DIR$/SourceShare-impl/SourceShare-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceShare-service/SourceShare-service.iml" filepath="$PROJECT_DIR$/SourceShare-service/SourceShare-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceShare-war/SourceShare-war.iml" filepath="$PROJECT_DIR$/SourceShare-war/SourceShare-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceShare-web/SourceShare-web.iml" filepath="$PROJECT_DIR$/SourceShare-web/SourceShare-web.iml" />
+    </modules>
+  </component>
+</project>
